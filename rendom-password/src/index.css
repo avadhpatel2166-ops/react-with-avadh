@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+  /* body{
+    @apply bg-gray-950  
+  } */
+/* 
+  .heding{
+    @apply text-4xl text-white text-center mt-20
+  } */
+
+  /* .continer{
+    @apply  w-full max-w-md mx-auto shadow-md rounded-lg px-4 my-8 
+  } */
+
+  /* .first-child{
+    @apply flex shadow rounded-lg overflow-hidden mb-4
+  } */
+
+  /* .pass-input{
+    @apply outline-none
+  } */
+
