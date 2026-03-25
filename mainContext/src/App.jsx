@@ -9,8 +9,7 @@ function App() {
     <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique, deserunt?</h1>
     <Login/>
     <Profile/>
-    </UserContextProvider>
-    
+    </UserContextProvider>  
   )
 }
 
